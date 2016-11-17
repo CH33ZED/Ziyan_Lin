@@ -1,0 +1,13 @@
+body{
+     color: purple;
+     text-align: left;
+     font-size: 6em;
+}
+h1{
+     color: green;
+     top: 10px;
+     font-size: 4em;
+}
+title{
+     color: orange;
+}
