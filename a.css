@@ -1,10 +1,19 @@
-body{
+#head1{
      color: red;
      text-align: center;
      font-size: 2em;
 }
-h1{
+.extreme{
      color: brown;
      position: fixed;
      border: 100px;
+}
+.navzone{
+     color: purple;
+     font-size: 5 em;
+     border: 100px solid gold;
+}
+#tehlulz{
+     color: green;
+     font-family:"Times New Roman", Times, serif;
 }

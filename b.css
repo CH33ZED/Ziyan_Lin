@@ -1,13 +1,17 @@
-body{
+#head1{
+     color: red;
+     position: fixed;
+}
+.extreme{
+     color: peach;
+     position: fixed;
+     border: 10px;
+}
+.navzone{
      color: purple;
-     text-align: left;
-     font-size: 6em;
+     border: 1px solid red;
 }
-h1{
-     color: green;
-     top: 10px;
-     font-size: 4em;
-}
-title{
-     color: orange;
+#tehlulz{
+     color: red;
+     font-family:"Times New Roman", Times, serif;
 }
